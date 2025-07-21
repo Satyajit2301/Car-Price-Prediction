@@ -21,8 +21,3 @@ Predict the selling price of a car based on features such as:
 - R² Score on train and test sets
 - Visual comparison using scatter plots
 
-## 🛠️ How to Run
-```bash
-git clone https://github.com/yourusername/car-price-prediction.git
-cd car-price-prediction
-jupyter notebook
